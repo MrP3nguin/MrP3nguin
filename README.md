@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrP3nguin
-- 👀 I’m interested in coding games
+- 👀 I’m interested in game development and software and web based development.
 - 🌱 I’m currently learning to code in Java and C
 - 💞️ I’m looking to find an internship or fellowship
 - 📫 How to reach me: abrar.ahd0@gmail.com
