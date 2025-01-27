@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MrP3nguin
 - 👀 I’m interested in coding games
-- 🌱 I’m currently learning to code in Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning to code in Java and C
+- 💞️ I’m looking to find an internship or fellowship
+- 📫 How to reach me: abrar.ahd0@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am trilingual (not including coding languages :) )
 
 <!---
 MrP3nguin/MrP3nguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
