@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrP3nguin
 - 👀 I’m interested in game development and software and web based development.
-- 🌱 I’m currently learning to code in Java and C
+- 🌱 I’m currently knowledgable in coding in C, Python, and Golang
 - 💞️ I’m currently looking for an internship
 - 📫 How to reach me: abrar.ahd0@gmail.com
 - 😄 Pronouns: He/Him
